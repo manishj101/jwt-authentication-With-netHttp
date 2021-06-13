@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"github.com/thegeniusgroup/jwt-authentication/structs"
-	"github.com/thegeniusgroup/jwt-authentication/util"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/structs"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/util"
 )
 
 var mySigningKey = []byte("mysupersecretphrase")

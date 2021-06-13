@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	user "github.com/thegeniusgroup/jwt-authentication/User"
-	"github.com/thegeniusgroup/jwt-authentication/data"
-	"github.com/thegeniusgroup/jwt-authentication/util"
+	user "github.com/workspace-git/jwt-authentication-With-netHttp/User"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/data"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/util"
 )
 
 var mySigningKey = []byte("mysupersecretphrase")

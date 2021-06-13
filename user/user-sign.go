@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/thegeniusgroup/jwt-authentication/data"
-	"github.com/thegeniusgroup/jwt-authentication/structs"
-	"github.com/thegeniusgroup/jwt-authentication/util"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/data"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/structs"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/util"
 	"golang.org/x/crypto/bcrypt"
 )
 

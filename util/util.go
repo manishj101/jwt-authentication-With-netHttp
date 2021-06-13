@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/thegeniusgroup/jwt-authentication/structs"
+	"github.com/workspace-git/jwt-authentication-With-netHttp/structs"
 )
 
 // WebResponse :
