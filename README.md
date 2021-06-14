@@ -5,7 +5,7 @@ in this project we are generating, JWT token and validating it in further APIs.
 
 we just using net/http package for making API server
 
-****We can call the API from command line as below****
+**We can call the API from command line as below**
 
   **Call Post API with test-json.json payload**
 
